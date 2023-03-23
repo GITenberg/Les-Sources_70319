@@ -1,0 +1,26 @@
+_repo: Les-Sources_70319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gratry, Alphonse
+    gutenberg_agent_id: '55703'
+    url: http://www.gutenberg.org/2009/agents/55703
+description: ''
+gutenberg_issued: '2023-03-18'
+identifiers:
+  gutenberg: '70319'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k630018
+pgterms:marc905: 20220416065506gratry
+pgterms:marc906: '1907'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bP. Téqui, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les Sources
+url: http://www.gutenberg.org/ebooks/70319
